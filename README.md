@@ -4,7 +4,7 @@ Golang pre-parser to allow comments (// /**/ #) and trailing commas in JSON conf
 
 ## Why?
 
-I needed a config file format for golang.  I've used this, I've used that, I've rolled my own. In the end, JSON makes the most sense: it's well supported and familiar.  But no comments?  No trailing commas?  !@#$ that.  Google search found a 10 year old [gist](https://gist.github.com/kurokikaze/1254281) that pretty much did what I wanted.  Thanks @kurokikaze!
+I needed a config file format for golang.  I've used this, I've used that, I've rolled my own. In the end, JSON makes the most sense: it's well supported and familiar.  But no comments?  No trailing commas?  !@#$ that.  A Google search found a 10 year old [gist](https://gist.github.com/kurokikaze/1254281) that pretty much did what I wanted.  Thanks @kurokikaze!
 
 ## Example
 
@@ -30,4 +30,4 @@ Whatever.
 
 Taken from [https://gist.github.com/kurokikaze/1254281](https://gist.github.com/kurokikaze/1254281).  
 
-My two or three lines of, er, brilliance are released under the [DAL](license)!
+My two or three lines of, er, brilliance are released under the [DAL](LICENSE)!
